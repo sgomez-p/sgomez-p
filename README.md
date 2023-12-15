@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sgomez-p
 - 👀 I’m interested in Chemistry and tech.
-- 🌱 I’m currently learning programming on C
+- 🌱 I’m currently learning programming on C and Python
 - 📫 How to reach me ...
 
 <!---
