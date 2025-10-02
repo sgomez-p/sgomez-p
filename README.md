@@ -1,7 +1,13 @@
-- 👋 Hi, I’m @sgomez-p
-- 👀 I’m interested in Chemistry and tech.
-- 🌱 I’m currently learning programming on C and Python
-- 📫 How to reach me ...
+
+
+    👋 Hi, I’m @sgomez-p
+
+    🔬 Role: Materials Science Researcher.
+
+    🌱 Learning: Python & R for advanced data analysis.
+
+    💡 Interests: Tech , Nature, Open Source, Motorcycles , and Gaming.
+
 
 <!---
 sgomez-p/sgomez-p is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
