@@ -6,7 +6,7 @@
 
     🌱 Learning: Python & R for advanced data analysis.
 
-    💡 Interests: Tech , Nature, Open Source, Motorcycles , and Gaming.
+    💡 Interests: Tech , Nature, Open Source, and Gaming.
 
 
 <!---
